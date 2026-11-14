@@ -1,7 +1,7 @@
 import java.awt.Font;
 import java.util.Stack;
 
-public class SU_25433423 {
+public class StackedTicTacToe {
 
     private static void pic(double x, double y, String name, double w, double h) {
         StdDraw.picture(x, y, name, w, h);
